@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimerLockScreen</string>
+    <string name="button_name">Start</string>
+    <string name="hint_minute">Minute</string>
+    <string name="hint_second">Second</string>
+    <string name="message_minutes">Please Enter Minutes or Second...</string>
+    <string name="sample_device_admin">Timer Lock Screen</string>
+    <string name="sample_device_admin_description">This app will lock phone with admin permission</string>
+</resources>
